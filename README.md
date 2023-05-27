@@ -18,4 +18,5 @@ This assignment actually taught me quite a few things, including, but not limite
 -	creating shapes using the Graphics class in Java
 -	putting text onto the screen using the Graphics class in Java
 -	drawing a saved image using the Graphics class in Java
+
 In my next project, I hope to expand on these principles to learn how to create simple animations.
