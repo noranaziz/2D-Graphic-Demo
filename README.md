@@ -9,6 +9,7 @@ This program was built using the programming language Java. I used a mix of simp
 ## How to run
 The program is already compiled for you. All you have to do to run it is input the following command:
 `java Graphic`
+
 A separate window should open with the graphic being displayed.
 
 ## Lessons learned
